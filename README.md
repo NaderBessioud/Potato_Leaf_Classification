@@ -10,11 +10,12 @@ the Jupyter Notebook is located under training folder.
 The python functions are locateds in api folder and training folder :
 1) Install Python
 
-2) Install Python packages
+2) Install Python packages:
 pip3 install -r training/requirements.txt
 pip3 install -r api/requirements.txt
-
- 3)Install Tensorflow Serving
+3) Install Tensorflow Serving
+pip3 install -r training/requirements.txt
+pip3 install -r api/requirements.txt
 
 ## Setup for Angular
 the angular project is under frontend folder :
