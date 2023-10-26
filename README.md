@@ -14,8 +14,6 @@ The python functions are locateds in api folder and training folder :
 pip3 install -r training/requirements.txt
 pip3 install -r api/requirements.txt
 3) Install Tensorflow Serving
-pip3 install -r training/requirements.txt
-pip3 install -r api/requirements.txt
 
 ## Setup for Angular
 the angular project is under frontend folder :
