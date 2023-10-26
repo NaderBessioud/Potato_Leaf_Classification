@@ -3,7 +3,7 @@ this project is compose from a web page and mobile app and both are using python
 We used angular for the web page, java for the mobile app and python for the api.
 
 ## Training the Model
-We used data from [kaggle](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
+We used data from [kaggle](https://www.kaggle.com/datasets/arjuntejaswi/plant-village).  
 the Jupyter Notebook is located under training folder.
 
 ## Setup for Python
