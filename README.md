@@ -17,8 +17,8 @@ The python functions are locateds in api folder and training folder :
 
 ## Setup for Angular
 the angular project is under frontend folder :  
-cd frontend  
-npm install
+1) cd frontend  
+2) npm install
 
 ## Running the API
 ### Using FastAPI & TF Serve
