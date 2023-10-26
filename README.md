@@ -11,7 +11,7 @@ The python functions are locateds in api folder and training folder :
 1) Install Python
 
 2) Install Python packages:
-pip3 install -r training/requirements.txt
+pip3 install -r training/requirements.txt\n
 pip3 install -r api/requirements.txt
 3) Install Tensorflow Serving
 
